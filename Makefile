@@ -1,4 +1,4 @@
-PROGRAMS = template template_noise template_stars template_mixer
+PROGRAMS = main
 
 # Important optimization options
 CFLAGS = -O3 -ffast-math -fno-rtti
